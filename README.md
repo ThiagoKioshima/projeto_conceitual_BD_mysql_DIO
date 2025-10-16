@@ -1,4 +1,4 @@
-## Refinando um Projeto Conceitual de Banco de Dados E-COMMERCE 
+# Refinando um Projeto Conceitual de Banco de Dados E-COMMERCE 
 
 Descrição do Desafio
 
@@ -18,8 +18,8 @@ Entrega – Possui status e código de rastreio;
 ## Ferramentas utilizadas
 MySQL Workbench
 
-## Modelo Conceitual Banco de Dados E-
-![img]( )
+## Modelo Conceitual Banco de Dados E-COMMERCE
+![img](https://github.com/ThiagoKioshima/projeto_conceitual_BD_mysql_DIO/blob/main/e-commerce_refinado2.png)
 
 - Foram criados as entidades Cliente PJ e Cliente PF
 - Foram criados formas de pagamento cartão de crédito, pix/deposito e boleto
