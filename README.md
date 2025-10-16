@@ -18,5 +18,12 @@ Entrega – Possui status e código de rastreio;
 ## Ferramentas utilizadas
 MySQL Workbench
 
+## Modelo Conceitual Banco de Dados E-
+![img]( )
+
+- Foram criados as entidades Cliente PJ e Cliente PF
+- Foram criados formas de pagamento cartão de crédito, pix/deposito e boleto
+- Foi criada entrega para armazenar dados de envio
+
 
 
